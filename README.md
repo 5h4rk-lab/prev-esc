@@ -3,4 +3,4 @@ This is a repo where you will find every tool to find out the privilage escalati
 contributes are highly encouraged :) <br>
 All the privilage escalation tools at single place.
 
-## under work!
+## Tooo lazy to update this do contribute if you know any automated tools for priv-esc
